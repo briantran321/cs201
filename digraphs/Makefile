@@ -12,3 +12,4 @@ $(OBJS): digraphs.h
 
 clean:
 	-rm -f *.o digraphs
+ 
